@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "leagues-under-the-sea/1.0.0": {
+        "runtime": {
+          "leagues-under-the-sea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leagues-under-the-sea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

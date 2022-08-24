@@ -1,0 +1,16 @@
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\bin\Debug\net5.0\leagues-under-the-sea.exe
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\bin\Debug\net5.0\leagues-under-the-sea.deps.json
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\bin\Debug\net5.0\leagues-under-the-sea.runtimeconfig.json
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\bin\Debug\net5.0\leagues-under-the-sea.runtimeconfig.dev.json
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\bin\Debug\net5.0\leagues-under-the-sea.dll
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\bin\Debug\net5.0\leagues-under-the-sea.pdb
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.csproj.AssemblyReference.cache
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.AssemblyInfoInputs.cache
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.AssemblyInfo.cs
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.csproj.CoreCompileInputs.cache
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.dll
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\refint\leagues-under-the-sea.dll
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.pdb
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\leagues-under-the-sea.genruntimeconfig.cache
+C:\Users\terro\workspace\lightning-exercises\leagues-under-the-sea\obj\Debug\net5.0\ref\leagues-under-the-sea.dll
