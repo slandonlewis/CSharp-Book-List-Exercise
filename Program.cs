@@ -37,6 +37,15 @@ foreach (Book book in bookList)
 {
     Console.WriteLine($"{book.Title} by {book.Author}");
 }
+
+// create new library and add books to new library
+Library newLibrary = new Library("Lewis Library");
+newLibrary.AddBook(book1);
+newLibrary.AddBook(book2);
+newLibrary.AddBook(book3);
+
+newLibrary.ListLibrary();
+
 // Book class
 public class Book
 {
@@ -48,8 +57,31 @@ public class Book
         PublishDate = publishDate;
         NumberOfPages = pages;
     }
+    public string DisplayName { get { return $"{Title} - {Author}"; } }
     public string Author { get; set; }
     public string Title { get; set; }
     public DateTime PublishDate { get; set; }
     public int NumberOfPages { get; set; }
+}
+
+public class Library
+{
+    public Library(string name)
+    {
+        Name = name;
+    }
+    public string Name { get; set; }
+    private List<Book> privateLibrary = new List<Book>();
+    public void AddBook(Book book)
+    {
+        privateLibrary.Add(book);
+    }
+
+    public void ListLibrary()
+    {
+        foreach (Book book in privateLibrary)
+        {
+            Console.WriteLine($"{book.DisplayName}");
+        }
+    }
 }
